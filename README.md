@@ -4,7 +4,7 @@ To run the transaction system, follow the following steps:<br />
 1.clone or download the repo.<br />
 2.install the required packages mentioned in the requirement.txt(also make sure that python is installed on the system).<br />
 3.after installation, go to the directory of the code, open cmd and write the following line:<br />
-    &nbsppython transaction_management.py<br />
+    &emsp;python transaction_management.py<br />
 4.now use some application used for API testing like postman, and write the link to hit the API, by default the path to the API should be:<br />
     http://127.0.0.1:5000/transfer<br />
   This might differ from system to sytem, so take path as mentioned in the cmd after executing step 3. The line should look like:<br />
